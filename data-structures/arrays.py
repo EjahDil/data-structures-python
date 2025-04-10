@@ -2,14 +2,14 @@ class Array:
     def __init__(self):
         self.array = []
 
-    def insert(self, index, value):
+    def insert(self, index: int, value):
         """Insert a value at a specified index."""
         if index < 0 or index > len(self.array):
             print("Error: Index out of bounds.")
         else:
             self.array.insert(index, value)
 
-    def delete(self, index):
+    def delete(self, index:int):
         """Delete the element at the specified index."""
         if index < 0 or index >= len(self.array):
             print("Error: Index out of bounds.")
@@ -22,7 +22,6 @@ class Array:
             return self.array.index(value)
         else:
             return -1
-
 
     def traverse(self):
         """Return all elements in the array."""

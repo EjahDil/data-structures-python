@@ -1,0 +1,12 @@
+site_name: Ejah Data Structures Python Package Documentation
+theme:
+  name: 'material'
+  
+nav:
+  - Home: index.md
+  - Array: arrays.md
+  - Binary Graph Search: graph.md
+  - Singly Linked List: linked_lists.md
+  - Queue: queue.md
+  - Stack: stack.md
+  - Binary Search Tree: tree.md
