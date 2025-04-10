@@ -1,3 +1,26 @@
+Metadata-Version: 2.4
+Name: ejahdilandatastruct
+Version: 0.1.1
+Summary: A pedagogical Python package implementing core data structures from scratch
+Author-email: Ejah Dilan <ejahdilan58@gmail.com>
+License: MIT
+Project-URL: homepage, https://github.com/EjahDil/data-structures-python
+Project-URL: repository, https://github.com/EjahDil/data-structures-python
+Keywords: data structures,algorithms,python,education
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Education
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: license-file
+
 # Ejah Data Structures Python Package
 
 Ejah Data Structures is a Python package that provides various data structures with common operations such as insert, delete, search, and traverse. This package includes implementations of the following data structures: Array, Binary Search Tree, Binary Graph Search, Singly Linked List, Queue, and Stack.
@@ -7,7 +30,7 @@ Ejah Data Structures is a Python package that provides various data structures w
 To install the Ejah Data Structures Python package, ensure you have Python installed on your system. You can install the package using `pip`:
 
 ```bash
-pip install ejahdilandatastruct==0.1.1
+pip install ejah-data-structures
 ```
 
 Make sure you run this command within a Python environment.
@@ -115,7 +138,7 @@ from ejah_data_structures import Array, Queue, Stack, SinglyLinkedList, BinaryGr
 
 ## Documentation
 
-For detailed usage and installation instructions, please refer to the [documentation]().
+For detailed usage and installation instructions, please refer to the [documentation](https://yourdocumentationlink.com).
 
 You can find examples, code explanations, and additional information on how to use the package in the documentation.
 
