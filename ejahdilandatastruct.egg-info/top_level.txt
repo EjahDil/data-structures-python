@@ -1,4 +1,0 @@
-dist
-ejah-data-structures
-ejahdilandatastruct
-examples
