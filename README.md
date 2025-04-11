@@ -109,13 +109,13 @@ After installation, you can start using the package by importing the classes dir
 
 ```python
 
-from ejah_data_structures import Array, Queue, Stack, SinglyLinkedList, BinaryGraphSearch, BinarySearchTree
+from ejahdilandatastruct import Array, Queue, Stack, SinglyLinkedList, BinaryGraphSearch, BinarySearchTree
 
 ```
 
 ## Documentation
 
-For detailed usage and installation instructions, please refer to the [documentation]().
+For detailed usage and installation instructions, please refer to the [documentation](https://ejahdil.github.io/data-structures-python/).
 
 You can find examples, code explanations, and additional information on how to use the package in the documentation.
 
