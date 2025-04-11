@@ -121,9 +121,7 @@ You can find examples, code explanations, and additional information on how to u
 
 ## Contribute
 
-If you'd like to contribute to this project, please visit the GitHub repository and submit issues, pull requests, or suggestions.
-
-Feel free to fork the project and make improvements or add new features to enhance its usefulness.
+If you'd like to contribute to this project, don't hesistate to do so
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
